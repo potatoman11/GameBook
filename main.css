@@ -1,0 +1,25 @@
+h1 {
+  color: green;
+  font-family:'Hanalei Fill', cursive;
+}
+
+div {
+  text-align:center;
+}
+
+h3 {
+  font-family:'Hanalei Fill', cursive
+}
+
+p {
+  padding: 1%;margin: 1%;border: 2px solid red;
+   font-family:'Oswald', sans-serif;
+}
+
+.w-30 {
+  Width:30%
+}
+
+.w-40 {
+  Width: 40%
+}
