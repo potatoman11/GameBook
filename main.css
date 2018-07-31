@@ -23,3 +23,7 @@ p {
 .w-40 {
   Width: 40%
 }
+
+.special-p {
+  color:blue; font-family:'Ruslan Display'
+}
