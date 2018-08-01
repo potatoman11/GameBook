@@ -12,8 +12,10 @@ h3 {
 }
 
 p {
-  padding: 1%;margin: 1%;border: 2px solid red;
-   font-family:'Oswald', sans-serif;
+  padding: 1%;
+  margin: 1%;
+  border: 2px solid red;
+  font-family:'Oswald', sans-serif;
 }
 
 .w-30 {
@@ -25,5 +27,16 @@ p {
 }
 
 .special-p {
-  color:blue; font-family:'Ruslan Display'
+  color:blue;
+  font-family:'Ruslan Display'
+}
+
+.jumbotron {
+  background-color:orange
+
+}
+
+.borderand30 {
+border:8px solid blue;
+width="30%"
 }
