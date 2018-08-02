@@ -3,7 +3,7 @@ $(document).ready(function(){
 
   $('.jumbotron').click(function(){
 
-    var colorArray = ["red", "orange", "yellow", "turquoise", "blue", "purple"]
+    var colorArray = ["#10edcc", "#065c82", "#62ea07", "#ffe716", "#ff1673", "#540b9e"]
 
     var rng = Math.random();
     rng = rng * 10 / 2;
